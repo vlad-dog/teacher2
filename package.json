@@ -24,7 +24,7 @@
     "fs": "0.0.2",
     "give-me-a-joke": "^0.2.5",
     "google-api-utility": "^0.0.14",
-    "got": "^10.6.0",
+    "got": "^11.8.5",
     "http": "0.0.1-security",
     "http-errors": "^1.7.3",
     "http-sender": "^4.0.0",
